@@ -1,2 +1,2 @@
 #!/bin/bash
-hello user/id
+hello user/whoami
