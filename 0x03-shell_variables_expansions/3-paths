@@ -1,2 +1,2 @@
 #!/bin/bash
-grep ^d
+-maxdepth 1 -type d
