@@ -1,2 +1,2 @@
 #!/bin/bash
-echo $ans='expr POWER / DIVIDE'
+echo $ans='expr POWER / DIVIDE' \n
