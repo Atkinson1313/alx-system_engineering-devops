@@ -1,2 +1,2 @@
 #!/bin/bash
-DIRS=$(find . -type d -maxdepth $n)
+PATH=$(find . -type d -maxdepth $n)
