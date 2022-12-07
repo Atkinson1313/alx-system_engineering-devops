@@ -1,6 +1,2 @@
 #!/bin/bash
-export POWER=100
-export DIVIDE=20
-
-ans='expr $POWER / $DIVIDE'
-echo $ans
+echo $ans='expr POWER / DIVIDE'
